@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anandswarup028.github.io/Food-website/sitemap.xml
